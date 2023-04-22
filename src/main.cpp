@@ -8,6 +8,7 @@
 #include "settingsRead.hpp"
 #include "settingsSave.hpp"
 #include "esp32_wifi.hpp"
+#include "esp32_mqtt.hpp"
 
 void setup() {
   //baudrate
