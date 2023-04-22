@@ -1,0 +1,6 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "platformio-ide.activateProjectOnTextEditorChange": true,
+    "platformio-ide.autoPreloadEnvTasks": true,
+    "C_Cpp.dimInactiveRegions": false
+}
